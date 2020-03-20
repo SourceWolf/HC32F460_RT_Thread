@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
+
+"C:\Users\User\Documents\01-HDSC_Files\09-M010\hc32f46x-ddl-rtos\rt_thread\bsp\hc32f46x\build\iar\release\Exe\rtthread.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--flash_loader "C:\Users\User\Documents\01-HDSC_Files\09-M010\hc32f46x-ddl-rtos\rt_thread\bsp\hc32f46x\flashloader\HC32F46x.board" 
+
+
+
+

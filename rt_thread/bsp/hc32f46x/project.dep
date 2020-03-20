@@ -1,0 +1,3605 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3827299760</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_sram.c</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ringbuffer.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\completion.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ringblk_buf.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\showmem.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\memheap.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\spi_core.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\watchdog.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\workqueue.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\qspi_core.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\waitqueue.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\backtrace.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\showmem.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\pin.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\pipe.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\i2c_core.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\rtc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\mem.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\scheduler.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_dmac.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh_file.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dataqueue.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\serial.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\clock.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\completion.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\i2c_dev.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ipc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\div0.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dataqueue.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\div0.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\kservice.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer0.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\startup_hc32f46x.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_usart.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\timer.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cpuport.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\device.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_sdioc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\irq.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\gmtime_r.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\spi_dev.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ringbuffer.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\context_iar.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ringblk_buf.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_utility.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_wdt.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cpuport.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\thread.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_rtc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cpu.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\serial.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\mempool.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\object.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_trng.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\idle.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\backtrace.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\components.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\watchdog.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\qspi_core.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\rmtx.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\spi_core.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\i2c_core.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\waitqueue.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_oco.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\i2c_dev.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\signal.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\libc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_elm.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_read.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\system_hc32f46x.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\environ.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_write.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\time.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh_cmd.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ccsbcs.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\workqueue.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_remove.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\pin.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_mem.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_file.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\rtc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\stdio.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\spi_dev.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\pipe.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_emb.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_exint_nmi_swi.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_fs.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_adc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_swdt.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer0.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_efm.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\devfs.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32_platform.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ff.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_gpio.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\drv_i2c.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_lseek.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cmd.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_event_port.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_emb.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_open.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_cmp.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_sram.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_crc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_posix.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\drv_usart.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_dmac.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\symbol.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_aes.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh_file.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\board.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\shell.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_close.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_can.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_read.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_dcu.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\environ.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\system_hc32f46x.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_write.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\project.pbd</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_close.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_clk.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ccsbcs.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\object.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\stdio.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\gmtime_r.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_wdt.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_hash.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\board.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\scheduler.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\thread.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_remove.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\mem.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\drv_i2c.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\signal.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\clock.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\rmtx.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\time.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\memheap.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\idle.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_spi.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_mpu.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_i2s.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_qspi.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cpu.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_keyscan.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_icg.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\components.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\kservice.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\mempool.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_emb.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_ots.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_mem.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\device.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_rtc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_open.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_sdioc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_i2c.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer6.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_pwm.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_pwc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_utility.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\irq.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_lseek.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\libc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ipc.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_cnt.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_usart.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_trng.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_sevt.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timera.pbi</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_rmu.pbi</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\rtc.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\components.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\dataqueue.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\serial.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\ringbuffer.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\waitqueue.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ipc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_event_port.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_emb.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Exe\rtthread.bin</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_adc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\device.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\clock.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\ringblk_buf.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\mem.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_posix.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\thread.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\mempool.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_interrupts.pbi</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\workqueue.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\pipe.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\idle.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cpu.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\timer.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\gmtime_r.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\kservice.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\poll.h</file>
+      <file>$PROJ_DIR$\drivers\hc32_platform.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtthread.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtdef.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\scheduler.__cstat.et</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Include\hc32_common.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_dcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\irq.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timera.h</file>
+      <file>$PROJ_DIR$\..\..\include\rthw.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_event_port.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\ipc\completion.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtdebug.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CoreSupport\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_keyscan.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\memheap.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\finsh.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\drivers\drv_i2c.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer4_sevt.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\object.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\signal.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\build\iar\release\List\rtthread.map</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\ffconf.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_ots.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_hash.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yfuns.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\rtdevice.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer4_pwm.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_swdt.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_wdt.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\devfs\devfs.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_crc.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_exint_nmi_swi.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_emb.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_interrupts.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\watchdog.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_qspi.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_trng.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_spi.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_mpu.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_clk.h</file>
+      <file>$PROJ_DIR$\drivers\drv_usart.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\include\dfs_private.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocalelist.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_lconv.h</file>
+      <file>$PROJ_DIR$\applications\ddl_config.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer4_oco.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_dmac.h</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\msh.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\errno.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_can.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtm.h</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_errno.h</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_stat.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer4_cnt.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$PROJ_DIR$\drivers\board.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CoreSupport\Include\core_cmSimd.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CoreSupport\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\rtconfig.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CoreSupport\Include\core_cm4.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\include\dfs_posix.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\finsh_api.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtlibc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Include\hc32_ddl.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\signal.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Include\system_hc32f46x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_fdset.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\integer.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\spi.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_sram.h</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_fcntl.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtservice.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_aes.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh_file.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_dcu.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\drv_usart.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_signal.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\include\dfs_fs.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cmd.__cstat.et</file>
+      <file>$PROJ_DIR$\drivers\drv_irq_cfg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\devfs.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_efm.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_ioctl.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh_cmd.__cstat.et</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Include\HC32F46x.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_can.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_cmp.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\shell.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\include\libc\libc_dirent.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_crc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_fs.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\i2c.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_elm.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_clk.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32_platform.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_dmac.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\diskio.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_icg.h</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\sys\types.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\symbol.__cstat.et</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_sdioc.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_utility.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_rmu.h</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\sys\time.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer0.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\ff.h</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\libc.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_exint_nmi_swi.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ff.__cstat.et</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_aes.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer4_emb.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_file.__cstat.et</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_pwc.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_cmp.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_rtc.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_usart.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_i2s.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_efm.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_adc.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\completion.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_sdioc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_i2c.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_sram.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_hash.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\system_hc32f46x.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer6.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Exe\rtthread.out</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\main.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cpuport.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_read.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ccsbcs.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_cnt.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_rmu.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_remove.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\div0.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_wdt.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_emb.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_sevt.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_close.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\qspi_core.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\spi_core.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\i2c_core.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\pin.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_mem.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_icg.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\workqueue.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\pipe.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\i2c_dev.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_rtc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_qspi.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_pwc.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_utility.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_i2s.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_oco.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_ots.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_keyscan.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\drv_i2c.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_swdt.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_pwm.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_usart.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_interrupts.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ringblk_buf.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\backtrace.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\libc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer0.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\include\dfs.h</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\include\dfs_file.h</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\pin.h</file>
+      <file>$PROJ_DIR$\..\..\include\rtdbg.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\locale.h</file>
+      <file>$PROJ_DIR$\drivers\linker_scripts\link.icf</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\showmem.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\rtc.o</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\shell.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\time.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timera.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_trng.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dataqueue.o</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\include\drivers\i2c_dev.h</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\inc\hc32f46x_timer6.h</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_mpu.__cstat.et</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ringbuffer.o</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_spi.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_sdioc.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer0.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_rtc.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_interrupts.c</file>
+      <file>$PROJ_DIR$\..\..\src\timer.c</file>
+      <file>$PROJ_DIR$\drivers\board.c</file>
+      <file>$PROJ_DIR$\drivers\drv_usart.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_dcu.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_hash.c</file>
+      <file>$PROJ_DIR$\drivers\drv_i2c.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_aes.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_can.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_cmp.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_icg.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_keyscan.c</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Source\system_hc32f46x.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_adc.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_dmac.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_ots.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_qspi.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_rmu.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_swdt.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_i2s.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_emb.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_gpio.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_pwc.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_clk.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_mpu.c</file>
+      <file>$PROJ_DIR$\drivers\hc32_platform.c</file>
+      <file>$PROJ_DIR$\applications\main.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_efm.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_crc.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_exint_nmi_swi.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_event_port.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_i2c.c</file>
+      <file>$PROJ_DIR$\..\..\src\components.c</file>
+      <file>$PROJ_DIR$\..\..\src\cpu.c</file>
+      <file>$PROJ_DIR$\..\..\src\ipc.c</file>
+      <file>$PROJ_DIR$\..\..\src\irq.c</file>
+      <file>$PROJ_DIR$\..\..\src\memheap.c</file>
+      <file>$PROJ_DIR$\..\..\src\mempool.c</file>
+      <file>$PROJ_DIR$\..\..\src\mem.c</file>
+      <file>$PROJ_DIR$\..\..\src\object.c</file>
+      <file>$PROJ_DIR$\..\..\src\idle.c</file>
+      <file>$PROJ_DIR$\..\..\src\device.c</file>
+      <file>$PROJ_DIR$\..\..\src\kservice.c</file>
+      <file>$PROJ_DIR$\..\..\src\scheduler.c</file>
+      <file>$PROJ_DIR$\..\..\src\signal.c</file>
+      <file>$PROJ_DIR$\..\..\src\thread.c</file>
+      <file>$PROJ_DIR$\..\..\src\clock.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_usart.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\devfs\devfs.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_oco.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timera.c</file>
+      <file>$PROJ_DIR$\..\..\libcpu\arm\common\div0.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\src\dfs.c</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Source\IAR\startup_hc32f46x.s</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\src\dfs_fs.c</file>
+      <file>$PROJ_DIR$\..\..\libcpu\arm\cortex-m4\context_iar.S</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_cnt.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_sevt.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_wdt.c</file>
+      <file>$PROJ_DIR$\..\..\libcpu\arm\cortex-m4\cpuport.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\src\dfs_file.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\ff.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer6.c</file>
+      <file>$PROJ_DIR$\..\..\libcpu\arm\common\backtrace.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_utility.c</file>
+      <file>$PROJ_DIR$\..\..\libcpu\arm\common\showmem.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\dfs_elm.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_trng.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\src\dfs_posix.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_emb.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\i2c\i2c_core.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\i2c\i2c_dev.c</file>
+      <file>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\option\ccsbcs.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\misc\pin.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\rtc\rtc.c</file>
+      <file>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_pwm.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\spi\spi_core.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\ringbuffer.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\watchdog\watchdog.c</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\cmd.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\common\gmtime_r.c</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\msh_cmd.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\spi\spi_dev.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\serial\serial.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\pipe.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\completion.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\environ.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\stdio.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_close.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_open.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_mem.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\workqueue.c</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\symbol.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_read.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\spi\qspi_core.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_remove.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\ringblk_buf.c</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\shell.c</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\msh_file.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\waitqueue.c</file>
+      <file>$PROJ_DIR$\..\..\components\finsh\msh.c</file>
+      <file>$PROJ_DIR$\..\..\components\drivers\src\dataqueue.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\rmtx.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_lseek.c</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\libc.c</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32_platform.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_emb.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_dcu.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\spi_dev.o</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\time.c</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\waitqueue.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_file.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\shell.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_cmp.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_open.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_efm.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_elm.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_can.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_swdt.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_i2s.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\stdio.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\environ.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_posix.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_icg.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_gpio.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_adc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\rmtx.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_hash.o</file>
+      <file>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_write.c</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_pwc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\serial.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_lseek.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_ots.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\watchdog.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\dfs_fs.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\devfs.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh_cmd.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer6.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\drv_usart.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\ff.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_i2c.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_keyscan.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\symbol.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_mpu.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_pwm.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_sevt.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_rmu.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\syscall_write.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_interrupts.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timera.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_sram.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_oco.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_crc.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_spi.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\cmd.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_timer4_cnt.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_clk.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_event_port.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_qspi.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\board.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_exint_nmi_swi.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\msh.o</file>
+      <file>$PROJ_DIR$\build\iar\release\Obj\hc32f46x_aes.o</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_sram.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 575</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 358</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 296 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 296 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 362 234</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\build\iar\release\Exe\rtthread.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 234</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 187</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 408 399 584 366 23 579 354 58 44 51 364 415 560 37 542 540 535 559 547 370 392 563 546 564 40 529 550 587 541 581 537 577 531 19 539 530 582 585 549 552 565 544 548 573 566 568 557 554 583 571 50 38 578 575 543 32 580 87 576 569 570 562 574 55 34 46 47 377 383 56 27 39 31 400 363 17 5 53 586 561 20 54 378 382 375 398 419 551 410 18 555 536 409 67 376 532 33 545 567 374 556 379 538 365 369 572 71 49 412 35 534 558 381 258 406 242 397</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 146</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 578</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 357</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 254 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_sdioc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 162</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 355</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 233 222 292 290 283 285 291 214 209 310 281 314 327 335 263 226 274 211 316 300 298 215 279 276 334 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 334 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer0.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 401</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 338 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 338 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 384</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 349 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 349 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_interrupts.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 196</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 573</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 396</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 211 327 300 215 209 226 316 291 274 298 279 229 335 263 292 310 290 233 281 283 314 277 249 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 249 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 201</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 221 297 300 310 299 291 293 289 218 278 207 270 286 298 272 320 206 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\board.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 584</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 133</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 271 285 291 314 267 206 233 276 263 221 278 240 281 306 207 339 292 290 275 299 282 283 313 268 209 352 331 347 350 310 327 270 286 300 298 272 297 320 293 289 288 256 265 259 351 249 334 335 226 274 211 316 215 279 222 214 218 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 275 288 209 226 233 292 215 274 211 316 279 222 214 229 277 276 290 263 256 265 352 259 339 351 331 249 347 334 350 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\drv_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 563</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 305</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 197 283 250 278 299 282 285 209 331 350 327 263 206 191 291 313 268 352 347 310 276 309 220 198 416 404 221 240 281 314 271 306 267 207 239 339 292 290 233 288 257 182 180 183 204 178 295 181 324 270 286 300 298 272 297 320 293 289 284 256 265 259 351 249 334 335 226 274 211 316 215 279 222 214 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404 288 209 226 233 292 215 274 211 316 279 222 214 229 277 276 290 263 256 265 352 259 339 351 331 249 347 334 350 335 309 257</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_dcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 531</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 304</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 210 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 210 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_hash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 132</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 552</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 359</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 237 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 237 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\drv_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 392</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 139</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 298 220 239 263 209 313 229 416 278 283 249 274 291 327 285 279 221 240 268 207 227 288 256 265 259 351 334 335 226 211 316 300 215 198 404 267 206 309 352 339 331 347 350 292 310 290 233 281 314 277 197 191 250 299 282 271 306 205 222 276 214 182 180 183 204 178 295 181 324 270 286 272 297 320 293 289 284</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 205 288 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 256 265 352 259 339 351 331 249 347 334 350 335 309 227 239 206 278 221 207 286 272 268 271 267 297 313 320 306 289 293 299 270 282 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_aes.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 587</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 301</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 344 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 344 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_can.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 117</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 541</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 317</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 269 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 269 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_cmp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 537</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 318</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 348 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 348 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_icg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 548</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 380</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 292 285 291 290 283 233 229 209 310 281 314 327 263 226 274 211 316 300 298 215 279 277 331 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 331 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_keyscan.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 151</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 566</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 391</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 223 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 223 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Source\system_hc32f46x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 360</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 291 292 285 290 283 233 310 281 314 327 276 226 274 211 316 300 298 215 279 222 214 209 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 550</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 188</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 353 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 353 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_dmac.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 329</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 209 298 274 291 327 285 279 226 211 316 300 215 229 335 263 292 310 290 233 281 283 314 277 265 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 265 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_ots.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 557</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 390</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 236 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 236 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_qspi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 583</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 385</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 251 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 251 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_rmu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 177</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 571</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 368</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 336 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 336 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_swdt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 543</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 393</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 243 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 243 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_i2s.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 544</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 388</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 274 291 285 327 279 298 209 226 211 316 300 215 229 335 263 292 310 290 233 281 283 314 277 351 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 351 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_emb.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 530</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 186</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 248 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 248 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 549</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 302</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 226 291 316 222 211 327 300 285 215 214 263 274 298 279 209 335 292 310 290 233 281 283 314 276 259 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 259 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_pwc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 554</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 386</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 274 291 327 279 298 209 226 211 316 300 215 229 335 263 292 310 290 233 281 283 314 277 347 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 347 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_clk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 581</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 326</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 310 291 285 327 314 281 209 292 290 233 283 229 335 263 226 274 211 316 300 298 215 279 277 256 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 256 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_mpu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 147</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 568</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 418</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 255 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 255 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\drivers\hc32_platform.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 529</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 328</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 291 327 297 284 204 300 310 227 180 178 207 293 285 206 249 274 263 209 205 182 183 295 324 278 270 286 298 272 320 289 239 215 256 265 259 351 334 335 226 211 316 276 292 220 197 198 191 416 250 404 221 299 282 240 281 283 314 271 313 306 268 267 288 352 339 331 347 350 290 233 279 222 214 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404 292 215 205 288 209 226 233 274 211 316 279 222 214 229 277 276 290 263 256 265 352 259 339 351 331 249 347 334 350 335 227</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\applications\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 363</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 291 263 209 298 310 285 249 274 327 279 221 297 256 265 259 351 334 335 226 211 316 300 215 276 278 286 293 289 206 352 339 331 347 350 292 290 233 281 283 314 222 214 299 272 320 288 277 229 207 270 282 240 271 313 306 268 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 288 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 256 265 352 259 339 351 331 249 347 334 350 335 206 278 221 207 286 272 268 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_efm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 539</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 312</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 314 310 291 327 209 281 292 290 233 283 229 335 263 226 274 211 316 300 298 215 279 277 352 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 352 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 577</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 321</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 291 229 316 226 209 211 327 300 285 215 274 298 279 335 263 292 310 290 233 281 283 314 277 246 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_exint_nmi_swi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 585</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 342</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 247 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 247 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_event_port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 582</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 185</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 219 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 219 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 565</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 356</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 233 292 290 283 285 291 263 310 281 314 327 229 335 209 226 274 211 316 300 298 215 279 277 339 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 339 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\components.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 153</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 179</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 278 300 310 270 297 285 207 291 293 289 206 221 299 286 298 272 320 218 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\cpu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 200</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 297 270 278 300 310 207 291 293 289 218 221 299 282 286 298 272 320 206 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\ipc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 171</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 184</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 221 285 297 300 310 299 291 293 289 218 278 207 270 286 298 272 320 206 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\irq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 212</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 278 300 310 270 297 285 207 291 293 289 206 221 299 282 286 298 272 320 218 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\memheap.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 224</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 299 300 310 206 297 285 221 291 293 289 278 207 270 286 298 272 320 218 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\mempool.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 195</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 300 310 207 297 285 278 270 291 293 289 206 221 299 286 298 272 320 218 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 192</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 291 268 285 278 206 292 270 313 283 225 207 282 226 327 232 261 215 221 299 240 281 314 271 306 267 284 253 216 262 218 286 300 298 272 297 320 293 310 289 213 233 287 407</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 292 215</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\object.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 128</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 230</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 306 278 281 299 240 285 221 314 271 327 291 218 207 270 282 283 313 268 267 206 286 300 298 272 297 320 293 310 289</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\idle.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 145</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 199</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 300 310 297 285 278 270 291 293 289 206 221 299 286 298 272 320 218 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\device.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 159</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 189</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270 300 310 278 297 285 207 291 293 289 221 299 286 298 272 320 206 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\kservice.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 154</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 203</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 297 278 270 300 310 207 291 293 289 218 221 299 286 298 272 320 206 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\scheduler.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 208</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 297 270 278 300 310 207 291 293 289 218 221 299 286 298 272 320 206 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\signal.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 231</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 314 285 310 281 206 297 218 291 283 299 278 286 293 327 289 292 300 298 221 272 320 215 207 270 282 240 271 313 306 268 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 310 291 285 281 300 298 283 314 292 327 215 218 206 278 221 207 286 272 268 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\thread.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 194</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 221 300 310 297 285 206 299 291 293 289 278 207 270 286 298 272 320 218 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\clock.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 141</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 190</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 278 300 310 270 297 285 207 291 293 289 206 221 299 282 286 298 272 320 218 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 395</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 281 222 263 310 285 314 291 327 214 292 290 233 283 209 335 226 274 211 316 300 298 215 279 276 350 277 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 350 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\filesystems\devfs\devfs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 560</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 311</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 320 291 403 299 282 283 285 278 182 324 284 402 221 240 281 314 272 183 295 239 327 307 245 207 270 286 300 298 297 293 310 267 180 204 178 181 206 226 268 215 271 313 306 289 220 197 198 191 416 250 404 292 233</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404 402 226 233 292 215 307 403 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_oco.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 576</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 389</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 264 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 264 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timera.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 176</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 574</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 413</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 217 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 217 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\libcpu\arm\common\div0.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 370</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\src\dfs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 542</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 323</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 310 178 206 291 215 278 402 261 327 300 297 207 180 405 232 403 225 283 270 286 293 267 204 181 284 307 260 292 298 272 320 182 183 295 324 239 226 253 216 268 233 281 314 221 299 282 240 271 313 306 289 220 197 198 191 416 250 404 213 287 407 262</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 402 226 291 285 281 300 298 283 314 327 233 310 284 292 215 268 206 278 221 207 286 272 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307 403 260 405 225 213 287 232 216 253 407 262 261</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\CMSIS\DeviceSupport\HDSC\HC32F46x\Source\IAR\startup_hc32f46x.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\src\dfs_fs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 559</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 322</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 268 240 278 291 221 402 261 239 233 313 206 197 250 405 232 285 260 284 283 191 403 225 226 281 314 327 299 282 271 306 289 220 198 416 404 292 253 216 307 310 300 298 215 207 270 286 272 297 320 293 267 182 180 183 204 178 295 181 324 213 287 407 262</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 307 402 226 291 285 281 300 298 283 314 327 233 310 284 292 215 268 206 278 221 207 286 272 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 403 260 405 225 213 287 232 216 253 407 262 261</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\libcpu\arm\cortex-m4\context_iar.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_cnt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 172</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 580</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 367</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 273 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 273 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_sevt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 175</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 570</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 373</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 228 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 228 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_wdt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 371</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 244 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 244 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\libcpu\arm\cortex-m4\cpuport.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 364</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 300 310 299 297 285 221 291 293 289 278 207 270 286 298 272 320 206 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\src\dfs_file.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 535</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 346</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 310 178 206 291 215 278 261 327 300 297 207 180 405 232 260 283 270 286 293 267 204 181 402 284 403 225 292 298 272 320 182 183 295 324 239 307 226 253 216 268 233 281 314 221 299 282 240 271 313 306 289 220 197 198 191 416 250 404 213 287 407 262</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 402 226 291 285 281 300 298 283 314 327 233 310 284 292 215 268 206 278 221 207 286 272 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 403 307 260 405 225 213 287 232 216 253 407 262 261</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\ff.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 564</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 343</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 221 240 285 294 278 281 306 314 271 327 291 330 206 235 299 282 283 313 268 267 207 340 270 286 300 298 272 297 320 293 310 289</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 340 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 294 235 330</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer6.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 164</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 562</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 361</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 417 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 417 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\libcpu\arm\common\backtrace.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 399</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 300 310 221 297 285 299 282 291 293 289 278 207 270 286 298 272 320 206 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_utility.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 167</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 387</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 233 263 292 290 283 285 291 229 310 281 314 327 209 226 274 211 316 300 298 215 279 277 335 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 335 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\libcpu\arm\common\showmem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 409</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270 300 310 278 297 285 207 291 293 289 221 299 282 286 298 272 320 206 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\dfs_elm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 540</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 325</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 215 250 293 239 197 268 330 207 291 285 327 402 340 307 300 297 310 267 206 226 283 191 294 235 292 403 278 270 286 298 272 320 284 220 198 416 404 221 299 282 240 281 314 271 313 306 289 233 182 180 183 204 178 295 181 324</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 235 340 294 292 215 307 402 226 233 284 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 403 330</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_trng.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 174</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 414</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 252 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 252 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\src\dfs_posix.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 547</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 193</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 206 178 310 291 215 278 261 225 327 300 297 207 180 405 232 260 283 270 286 293 267 204 181 402 284 280 292 298 272 320 182 183 295 324 239 307 226 253 216 268 233 281 314 221 299 282 240 271 313 306 289 220 197 198 191 416 250 404 403 213 287 407 262</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 402 226 291 285 281 300 298 283 314 327 233 310 284 292 215 268 206 278 221 207 286 272 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 280 403 307 260 405 225 213 287 232 216 253 407 262 261</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_emb.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 156</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 372</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 345 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 345 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\i2c\i2c_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 377</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 271 327 198 404 314 291 206 220 416 221 278 240 281 306 285 239 197 191 250 299 282 283 313 268 289 182 180 183 204 178 295 181 324 207 270 286 300 298 272 297 320 293 310 267 284</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\i2c\i2c_dev.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 383</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 293 180 278 178 207 291 206 204 181 300 297 310 285 327 239 182 183 295 324 270 286 298 272 320 267 220 197 198 191 416 250 404 221 299 282 240 281 283 314 271 313 306 268 289 284</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\dfs\filesystems\elmfat\option\ccsbcs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 366</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 127</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 278 286 291 270 272 285 294 298 320 206 235 207 300 297 293 310 289 340 221 299 282 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 340 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 294 235</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\misc\pin.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 378</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 220 298 291 239 270 416 206 213 233 278 320 225 207 286 272 289 198 404 215 221 299 282 300 297 293 310 327 197 191 250 287 407 284 262 240 281 283 314 271 313 306 268 267 182 180 183 204 178 295 181 324 226 292 232 253 261 216</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 404 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 225 226 233 213 287 232 216 253 407 262 261 292 215</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\rtc\rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 410</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 221 327 240 278 268 261 178 206 283 285 313 282 310 291 232 180 239 281 314 204 181 292 225 300 298 299 271 306 289 213 253 216 262 182 183 295 324 284 215 207 270 286 272 297 320 293 267 226 233 287 407 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 268 291 285 281 300 298 283 314 327 292 215 206 278 221 207 286 272 310 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\HC32F46x_StdPeriph_Driver\src\hc32f46x_timer4_pwm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 165</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 569</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 394</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 229 298 274 291 327 285 279 263 226 211 316 300 215 335 209 292 310 290 233 281 283 314 277 241 222 276 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 241 209 226 291 285 281 300 298 283 314 327 233 292 215 274 310 211 316 279 222 214 229 277 276 290 263 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\spi\spi_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 376</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 291 289 206 271 327 300 285 299 282 306 284 298 221 278 240 313 268 295 283 281 314 207 270 286 272 297 320 293 310 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 295 284 291 285 281 300 298 283 314 327 206 278 221 207 286 272 310 268 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\ringbuffer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 419</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270 272 291 285 404 278 286 198 298 320 289 292 207 300 297 293 310 220 416 206 215 239 221 299 282 240 281 283 314 271 313 306 268 327 197 191 250 267 182 180 183 204 178 295 181 324 284</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404 292 215</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\watchdog\watchdog.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 558</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 300 310 297 285 278 270 291 293 289 206 221 299 282 286 298 272 320 250 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 250 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\finsh\cmd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 579</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 308</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 207 206 291 293 283 278 270 286 300 297 310 327 282 232 261 215 225 221 299 240 281 298 272 320 289 213 253 216 262 218 314 271 313 306 268 267 226 284 292 233 287 407</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 292 215</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\common\gmtime_r.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 202</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 327 271 283 285 291 268 281 314 310 207 282 306 289 337 332 300 298 206 278 270 240 313 221 299 286 272 297 320 293 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 337 268 291 285 281 300 298 283 314 327 332 310 206 278 221 207 286 272 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\finsh\msh_cmd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 561</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 315</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 282 278 291 268 207 310 285 327 307 313 206 220 416 225 270 283 287 407 284 198 404 266 280 221 299 240 281 314 271 306 289 213 233 215 292 197 191 250 239 402 286 300 298 272 297 320 293 267 226 232 253 261 216 262 403 182 180 183 204 178 295 181 324</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 292 215 266 280 403 402 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\spi\spi_dev.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 532</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 298 291 285 207 320 278 270 286 272 267 284 295 221 299 300 297 293 310 283 206 282 240 281 314 271 313 306 268 327 289</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 295 284</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\serial\serial.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 555</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 291 278 314 324 284 271 327 182 221 240 281 306 285 239 405 299 282 283 313 268 183 295 206 207 270 286 300 298 272 297 320 293 310 267 180 204 178 181 218 289 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404 405</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\pipe.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 382</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 300 310 291 297 327 178 206 207 293 285 180 239 278 270 286 298 272 320 289 204 181 221 299 282 240 281 283 314 271 313 306 268 267 182 183 295 324 284 218 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\completion.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 354</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 271 327 314 291 178 206 221 278 240 281 306 285 207 180 239 299 282 283 313 268 289 204 181 270 286 300 298 272 297 320 293 310 267 182 183 295 324 284 218 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\environ.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 546</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\stdio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 545</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 129</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 297 233 285 307 341 283 291 299 310 278 206 220 416 292 281 314 327 221 286 293 198 404 284 280 300 298 215 207 270 272 320 267 274 197 191 250 239 402 226 282 240 271 313 306 268 289 403 182 180 183 204 178 295 181 324</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 226 291 285 281 300 298 283 314 327 233 284 292 215 206 278 221 207 286 272 310 268 271 267 297 313 320 306 289 293 299 270 282 341 274 280 403 402 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_close.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 374</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 297 402 327 314 178 206 221 278 240 281 310 267 403 268 180 280 299 282 291 283 293 207 226 204 181 238 270 286 300 298 272 320 284 239 182 183 295 324 271 313 306 289 307 292 233 215 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 280 403 402 226 233 284 292 215 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_open.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 538</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 161</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 278 281 268 291 221 240 215 314 313 327 292 285 220 416 206 299 282 283 198 404 238 280 207 270 286 300 298 271 306 289 307 310 233 197 191 250 239 402 272 297 320 293 267 403 226 284 182 180 183 204 178 295 181 324</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 238 280 403 402 226 233 284 292 215 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 379</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 158</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 270 300 310 278 297 285 207 291 293 289 221 299 282 286 298 272 320 206 240 281 283 314 271 313 306 268 327 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\workqueue.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 381</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 306 278 281 221 240 285 178 206 314 271 327 291 207 180 239 299 282 283 313 268 289 204 181 270 286 300 298 272 297 320 293 310 267 182 183 295 324 284 218 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\finsh\symbol.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 567</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 333</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 297 327 300 310 207 291 293 285 283 225 278 270 286 298 272 320 289 213 232 261 215 221 299 282 240 281 314 271 313 306 268 206 253 216 262 267 226 284 292 233 287 407</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 292 215</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_read.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 365</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 291 272 341 300 278 284 182 324 206 239 280 270 286 285 298 320 183 295 238 221 299 282 240 281 283 314 297 293 310 267 403 402 226 268 327 180 204 178 181 271 313 306 289 307 292 233 215 220 197 198 191 416 250 404 274</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 280 403 402 226 233 284 292 215 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307 238 341 274</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\spi\qspi_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 375</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 284 283 291 289 271 327 285 300 299 282 306 206 298 221 278 240 313 268 295 281 314 207 270 286 272 297 320 293 310 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 295 284 291 285 281 300 298 283 314 327 206 278 221 207 286 272 310 268 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_remove.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 369</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 137</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 278 281 327 306 221 240 178 206 314 271 291 307 268 180 403 299 282 283 285 313 226 204 181 238 207 270 286 300 298 272 297 320 293 310 289 284 239 182 183 295 324 267 402 292 233 215 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 403 402 226 233 284 292 215 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\ringblk_buf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 398</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 206 278 285 298 291 320 178 270 286 272 267 207 180 327 239 300 297 293 310 204 181 221 299 282 240 281 283 314 271 313 306 268 182 183 295 324 284 218 289 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\finsh\shell.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 536</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 319</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 206 278 282 291 268 310 285 327 191 313 225 292 299 283 287 407 284 197 250 239 402 221 240 281 314 271 306 289 213 233 215 307 220 198 416 404 411 266 280 207 270 286 300 298 272 297 320 293 267 226 232 253 261 216 262 403 182 180 183 204 178 295 181 324 218</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 292 215 411 266 280 403 402 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\finsh\msh_file.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 303</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 282 278 291 268 310 285 327 307 266 299 313 206 220 416 221 283 287 407 284 198 404 225 280 207 270 240 281 314 271 306 289 213 233 215 292 197 191 250 239 402 286 300 298 272 297 320 293 267 226 232 253 261 216 262 403 182 180 183 204 178 295 181 324</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 225 226 233 213 287 232 216 284 253 407 262 261 292 215 266 280 403 402 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\waitqueue.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 534</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 299 282 285 306 267 178 206 291 283 271 207 180 327 239 281 314 221 278 240 313 268 204 181 218 300 298 270 286 272 297 320 293 310 289 182 183 295 324 284 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 310 291 285 281 300 298 283 314 218 206 278 221 207 286 272 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\finsh\msh.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 586</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 240 215 291 233 278 285 307 411 270 281 306 206 220 416 266 280 207 314 271 289 213 327 310 198 404 225 221 299 282 283 313 268 287 407 284 292 197 191 250 239 402 286 300 298 272 297 320 293 267 226 232 253 261 216 262 403 182 180 183 204 178 295 181 324</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 266 225 226 233 213 287 232 216 284 253 407 262 261 292 215 411 280 403 402 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\drivers\src\dataqueue.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 415</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 206 283 207 289 180 327 239 299 282 285 291 313 278 268 178 218 221 240 281 314 271 306 204 181 270 286 300 298 272 297 320 293 310 267 182 183 295 324 284 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 239 182 220 180 197 183 198 204 191 178 295 284 181 324 416 250 404 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\rmtx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 551</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 142</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 221 327 285 298 291 207 320 299 278 286 272 267 238 270 300 297 293 310 206 282 240 281 283 314 271 313 306 268 289</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_lseek.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 556</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 169</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 297 402 327 314 178 206 221 278 240 281 310 267 403 268 180 280 299 282 291 283 293 207 226 204 181 238 270 286 300 298 272 320 284 239 182 183 295 324 271 313 306 289 307 292 233 215 220 197 198 191 416 250 404</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 280 403 402 226 233 284 292 215 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\libc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 400</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 170</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 272 291 278 327 300 221 320 206 298 299 286 297 293 310 267 284 341 233 281 283 314 207 270 282 240 271 313 306 268 289 226 274</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 226 291 285 281 300 298 283 314 327 233 284 206 278 221 207 286 272 310 268 271 267 297 313 320 306 289 293 299 270 282 341 274</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\time.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 412</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 143</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 285 283 271 327 291 268 281 314 310 207 282 306 289 206 332 300 298 278 270 240 313 337 221 299 286 272 297 320 293 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 337 268 291 285 281 300 298 283 314 327 332 310 206 278 221 207 286 272 271 267 297 313 320 306 289 293 299 270 282</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\libc\compilers\dlib\syscall_write.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 572</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 123</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 291 272 341 300 278 284 182 324 206 239 280 270 286 285 298 320 183 295 238 221 299 282 240 281 283 314 297 293 310 267 403 402 226 268 327 180 204 178 181 271 313 306 289 307 292 233 215 220 197 198 191 416 250 404 274</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206 278 221 207 286 272 310 291 285 281 300 298 283 314 268 327 271 267 297 313 320 306 289 293 299 270 282 280 403 402 226 233 284 292 215 239 182 220 180 197 183 198 204 191 178 295 181 324 416 250 404 307 238 341 274</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+
